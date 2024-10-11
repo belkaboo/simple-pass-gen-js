@@ -1,6 +1,6 @@
 {
   "name": "pass-gen-belka",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Password generator lib for Node.js by belkaboo",
   "main": "index.js",
   "repository": {
@@ -17,7 +17,6 @@
   "author": "belkaboo",
   "license": "ISC",
   "dependencies": {
-    "pass-gen-belka": "^1.0.0",
-    "password-generator-js": "^2.1.3"
+    "pass-gen-belka": "1.0.0"
   }
 }
